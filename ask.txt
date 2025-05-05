@@ -3,3 +3,7 @@ updating the whole text thing
 I have to write 10 lines probably 
 Here I am making edits after my first line of code
 let's see where it goes
+
+//Below this will be my third edit
+one can insert data into a vim file using "i" and then after they are done,
+they are supposed to press ESC and then ":wq" (write and quit) rest it is conditional
